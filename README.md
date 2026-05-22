@@ -1,32 +1,63 @@
-<h1 align="center">Hi 👋, I'm Satyam</h1>
+<h1 align="center">Hi 👋, I'm Satyam Singh Yadav</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=26&center=true&vCenter=true&width=600&lines=Frontend+Developer;React.js+Enthusiast;Bootstrap+%26+jQuery+Expert;Building+Modern+Web+Experiences" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=26&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;React.js+Enthusiast;Building+Scalable+Web+Applications" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎨 Passionate Frontend Developer
-- ⚡ Creating responsive & interactive web applications
-- 🔥 Skilled in React.js, Bootstrap & jQuery
-- 🚀 Focused on clean UI, performance & user experience
+- 💻 Aspiring Java Full Stack Developer
+- 🚀 Passionate about building scalable web applications
+- 🌱 Currently learning Spring Boot, Hibernate & Microservices
+- ⚡ Strong foundation in Java, Web Development & Databases
+- 🎯 Seeking opportunities to grow as a Software Developer
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Skills
 
-<p align="center">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</p>
+### Programming Languages
+- Java
+- JavaScript
+- SQL
+
+### Frontend Development
+- HTML5
+- CSS3
+- Bootstrap
+- React.js
+- Tailwind CSS
+
+### Backend Development
+- Core Java
+- JDBC
+- Servlets
+- JSP
+- Spring Framework
+- Spring Boot
+- REST APIs
+
+### Database
+- MySQL
+- MongoDB
+
+### Tools & Technologies
+- Git
+- GitHub
+- Postman
+- VS Code
+- Eclipse IDE
+- IntelliJ IDEA
+
+### Core Concepts
+- Object-Oriented Programming (OOP)
+- Data Structures & Algorithms (DSA)
+- DBMS
+- Operating Systems
+- Computer Networks
+- MVC Architecture
 
 ---
 
@@ -53,17 +84,20 @@
 
 ## 🚀 Featured Projects
 
-### 🔹 Portfolio Website
-🔗 https://github.com/Satyam12y/Portfolio--Satyam-Singh--Yadav  
-Modern responsive personal portfolio built with React & Bootstrap.
+### 🔹 Personal Portfolio Website
+🔗 https://github.com/Satyam12y/Portfolio--Satyam-Singh--Yadav
+
+Modern responsive portfolio showcasing skills and projects.
 
 ### 🔹 Mini Calculator
-🔗 https://satyam12y.github.io/Mini-Calculator/  
-Simple responsive calculator using HTML, CSS & JavaScript.
+🔗 https://satyam12y.github.io/Mini-Calculator/
 
-### 🔹 To-Do List App
-🔗 https://satyam12y.github.io/TO-D0-List/  
-Task management web app with clean UI.
+Responsive calculator built using HTML, CSS and JavaScript.
+
+### 🔹 To-Do List Application
+🔗 https://satyam12y.github.io/TO-D0-List/
+
+Task management application with a clean user interface.
 
 ---
 
@@ -78,21 +112,29 @@ Task management web app with clean UI.
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://github.com/Satyam12y/Portfolio--Satyam-Singh--Yadav">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
-</a>
 
 <a href="mailto:ysatyamsingh9@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 <a href="https://www.linkedin.com/in/satyamsinghyadav2786">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+<a href="https://github.com/Satyam12y">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-<p align="center">
-⭐ Code. Create. Innovate. ⭐
-</p>
+## 🎯 Career Objective
 
+Passionate Java Full Stack Developer with knowledge of Java, Spring Boot, React.js, MySQL, and MongoDB. Interested in developing scalable applications and continuously improving technical skills while contributing to innovative software solutions.
+
+---
+
+<p align="center">
+⭐ Java • Spring Boot • React • Build • Innovate ⭐
+</p>
