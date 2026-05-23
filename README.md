@@ -1,49 +1,54 @@
 <h1 align="center">Hi 👋, I'm Satyam Singh Yadav</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=26&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;React.js+Enthusiast;Building+Scalable+Web+Applications" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=26&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer;Frontend+Developer;Backend+Developer;Spring+Boot+Developer;Node.js+%26+Express.js+Developer;Building+Scalable+Web+Applications" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-- 💻 Aspiring Java Full Stack Developer
+- 💻 Java Full Stack Developer
+- 🎨 Frontend Developer
+- ⚙️ Backend Developer
 - 🚀 Passionate about building scalable web applications
-- 🌱 Currently learning Spring Boot, Hibernate & Microservices
-- ⚡ Strong foundation in Java, Web Development & Databases
-- 🎯 Seeking opportunities to grow as a Software Developer
+- 🌱 Currently learning Spring Boot, Express.js, MongoDB & Microservices
+- 📚 Strong foundation in Java, JavaScript, Databases and Web Development
+- 🎯 Looking for Software Developer opportunities
 
 ---
 
-## 🛠 Skills
+# 🛠 Skills
 
-### Programming Languages
+## Programming Languages
 - Java
 - JavaScript
 - SQL
 
-### Frontend Development
+## Frontend Development
 - HTML5
 - CSS3
 - Bootstrap
-- React.js
 - Tailwind CSS
+- React.js
 
-### Backend Development
+## Backend Development
 - Core Java
 - JDBC
 - Servlets
 - JSP
 - Spring Framework
 - Spring Boot
+- Node.js
+- Express.js
 - REST APIs
 
-### Database
+## Database
 - MySQL
 - MongoDB
+- Mongoose
 
-### Tools & Technologies
+## Tools & Technologies
 - Git
 - GitHub
 - Postman
@@ -51,9 +56,9 @@
 - Eclipse IDE
 - IntelliJ IDEA
 
-### Core Concepts
-- Object-Oriented Programming (OOP)
-- Data Structures & Algorithms (DSA)
+## Core Concepts
+- OOP
+- DSA
 - DBMS
 - Operating Systems
 - Computer Networks
@@ -61,7 +66,21 @@
 
 ---
 
-## 🏆 GitHub Trophies
+# 📊 Development Skills Distribution
+
+```text
+Java           35%  ████████████████████
+JavaScript     25%  ████████████████
+HTML5          15%  ██████████
+CSS3           15%  ██████████
+SQL             5%  ████
+MongoDB         3%  ███
+Git/GitHub      2%  ██
+```
+
+---
+
+# 🏆 GitHub Trophies
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Satyam12y&theme=tokyonight&no-frame=true&row=1&column=6" />
@@ -69,10 +88,13 @@
 
 ---
 
-## 📊 GitHub Analytics
+# 📈 GitHub Analytics
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Satyam12y&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Satyam12y&theme=tokyonight" />
 </p>
 
@@ -82,26 +104,45 @@
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🔹 Personal Portfolio Website
+## 🔹 Portfolio Website
 🔗 https://github.com/Satyam12y/Portfolio--Satyam-Singh--Yadav
 
-Modern responsive portfolio showcasing skills and projects.
+Modern responsive portfolio showcasing skills, education and projects.
 
-### 🔹 Mini Calculator
+---
+
+## 🔹 Express Registration Form
+🔗 https://github.com/Satyam12y/Expresshtmlcss
+
+Registration Form built using Node.js, Express.js, EJS, HTML, CSS and MongoDB.
+
+### Features
+- User Registration Form
+- Express.js Routing
+- EJS Template Engine
+- Responsive UI
+- MongoDB Integration
+- Form Handling
+
+---
+
+## 🔹 Mini Calculator
 🔗 https://satyam12y.github.io/Mini-Calculator/
 
 Responsive calculator built using HTML, CSS and JavaScript.
 
-### 🔹 To-Do List Application
+---
+
+## 🔹 To-Do List Application
 🔗 https://satyam12y.github.io/TO-D0-List/
 
-Task management application with a clean user interface.
+Task management application with clean UI and responsive design.
 
 ---
 
-## 🐍 Contribution Snake
+# 🐍 Contribution Snake
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Satyam12y/Satyam12y/output/github-contribution-grid-snake.svg" />
@@ -109,7 +150,7 @@ Task management application with a clean user interface.
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -129,12 +170,12 @@ Task management application with a clean user interface.
 
 ---
 
-## 🎯 Career Objective
+# 🎯 Career Objective
 
-Passionate Java Full Stack Developer with knowledge of Java, Spring Boot, React.js, MySQL, and MongoDB. Interested in developing scalable applications and continuously improving technical skills while contributing to innovative software solutions.
+Passionate Full Stack Developer with expertise in Java, Spring Boot, Node.js, Express.js, React.js, MySQL and MongoDB. Interested in building scalable and efficient web applications while continuously learning modern technologies and contributing to innovative software solutions.
 
 ---
 
 <p align="center">
-⭐ Java • Spring Boot • React • Build • Innovate ⭐
+⭐ Frontend Developer • Backend Developer • Full Stack Developer ⭐
 </p>
